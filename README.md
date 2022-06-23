@@ -1,7 +1,6 @@
 # Network Neuroethology
 
-Tools of analysis: Network Neuroethology Analysis (in collaboration with Dr. Madhavun Candadai)
-
+Tools of analysis: Network Neuroethology Analysis (in collaboration with Dr. Madhavun Candadai).
 
 Computational neuroethology approach to uncover what a statistical measure of functional connectivity tell us about the actual functional connectivity of a nervous system. 
 
@@ -9,3 +8,8 @@ In order to address this theoretical challenge, we propose the following paradig
 
 In scenario (*B*), the same subject is now tested on the same two tasks, but now the drop in performance is recorded during information lesions to each pair of connections or each individual connection between the components of the subject's brain. This effect of lesions per pairwise component is considered the actual functional connectivity (aFC). From it, the ground truth functional circuit is obtained for each task, which is used to assess the usefulness of the statistical nFC approach.  We cannot do part B of this approach with humans, or with any  other living organism, given current experimental limitations and ethical considerations. However, we can use artificial life techniques to: first generate agents capable of multiple tasks, and then analyze them in the way proposed above.
 
+![Screenshot of the Mathematica Notebook](https://github.com/edizquierdo/NetworkNeuroethology/blob/main/viz.png?raw=true)
+
+This work has just been accepted for publication: 
+
+Izquierdo EJ, Candadai, M (2022) What does functional connectivity tell us about the behaviorally functional connectivity of a multifunctional neural circuit? Artificial Life Conference 2022.
